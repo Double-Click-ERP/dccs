@@ -4,7 +4,7 @@ repo: dccs # The name of this repository
 
 sites:
   - name: Cloud 1
-    url: https://dc-cloud1.de.doubleclick-erp.com/Cloud/
+    url: https://dc-cloud.de.doubleclick-erp.com/Cloud/
   - name: Cloud 3
     url: https://dc-cloud3.de.doubleclick-erp.com/Cloud/
   - name: Cloud 4
@@ -13,6 +13,8 @@ sites:
     url: https://dc-cloud5.de.doubleclick-erp.com/Cloud/
   - name: Cloud 6
     url: https://dc-cloud6.de.doubleclick-erp.com/Cloud/
+  - name: Cloud 7
+    url: https://dc-cloud7.de.doubleclick-erp.com/Cloud/
 
 
 status-website:
