@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud.de.doubleclick-erp.com.ico",
     "slug": "cloud-1",
     "status": "up",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
-    "time": 436,
-    "timeDay": 436,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
-    "dailyMinutesDown": {
-      "2025-07-14": 21
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 497,
+    "timeDay": 497,
+    "timeWeek": 497,
+    "timeMonth": 497,
+    "timeYear": 497,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud 3",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud3.de.doubleclick-erp.com.ico",
     "slug": "cloud-3",
     "status": "up",
-    "uptime": "15.81%",
-    "uptimeDay": "15.81%",
-    "uptimeWeek": "15.81%",
-    "uptimeMonth": "15.81%",
-    "uptimeYear": "15.81%",
-    "time": 564,
-    "timeDay": 564,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
-    "dailyMinutesDown": {
-      "2025-07-14": 18
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud 4",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud4.de.doubleclick-erp.com.ico",
     "slug": "cloud-4",
     "status": "up",
-    "uptime": "15.68%",
-    "uptimeDay": "15.68%",
-    "uptimeWeek": "15.68%",
-    "uptimeMonth": "15.68%",
-    "uptimeYear": "15.68%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 526,
     "timeDay": 526,
     "timeWeek": 526,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {
-      "2025-07-14": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud 5",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud5.de.doubleclick-erp.com.ico",
     "slug": "cloud-5",
     "status": "up",
-    "uptime": "15.43%",
-    "uptimeDay": "15.43%",
-    "uptimeWeek": "15.43%",
-    "uptimeMonth": "15.43%",
-    "uptimeYear": "15.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 530,
     "timeDay": 530,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
-    "dailyMinutesDown": {
-      "2025-07-14": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud 6",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud6.de.doubleclick-erp.com.ico",
     "slug": "cloud-6",
     "status": "up",
-    "uptime": "15.25%",
-    "uptimeDay": "15.25%",
-    "uptimeWeek": "15.25%",
-    "uptimeMonth": "15.25%",
-    "uptimeYear": "15.25%",
-    "time": 524,
-    "timeDay": 524,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
-    "dailyMinutesDown": {
-      "2025-07-14": 18
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 521,
+    "timeDay": 521,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud 7",
@@ -110,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 494,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 532,
+    "timeDay": 532,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {}
   }
 ]
