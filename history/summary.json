@@ -4,10 +4,10 @@
     "url": "https://dc-cloud.de.doubleclick-erp.com/Cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud.de.doubleclick-erp.com.ico",
     "slug": "cloud-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
@@ -15,17 +15,19 @@
     "timeWeek": 727,
     "timeMonth": 634,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 1
+    }
   },
   {
     "name": "Cloud 3",
     "url": "https://dc-cloud3.de.doubleclick-erp.com/Cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud3.de.doubleclick-erp.com.ico",
     "slug": "cloud-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
@@ -33,16 +35,18 @@
     "timeWeek": 600,
     "timeMonth": 556,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 1
+    }
   },
   {
     "name": "Cloud 4",
     "url": "https://dc-cloud4.de.doubleclick-erp.com/Cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud4.de.doubleclick-erp.com.ico",
     "slug": "cloud-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 602,
     "timeMonth": 547,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Cloud 5",
