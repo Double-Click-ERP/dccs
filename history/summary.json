@@ -62,19 +62,19 @@
     "url": "https://dc-cloud5.de.doubleclick-erp.com/Cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud5.de.doubleclick-erp.com.ico",
     "slug": "cloud-5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 561,
-    "timeDay": 583,
-    "timeWeek": 594,
-    "timeMonth": 577,
+    "timeDay": 557,
+    "timeWeek": 584,
+    "timeMonth": 575,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-11-02": 0
+      "2025-11-02": 16
     }
   },
   {
