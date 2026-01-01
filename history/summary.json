@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud.de.doubleclick-erp.com.ico",
     "slug": "cloud-1",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 601,
-    "timeDay": 610,
-    "timeWeek": 629,
+    "uptimeYear": "99.86%",
+    "time": 602,
+    "timeDay": 678,
+    "timeWeek": 664,
     "timeMonth": 611,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-10-23": 356
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 558,
-    "timeWeek": 592,
-    "timeMonth": 591,
+    "timeDay": 580,
+    "timeWeek": 602,
+    "timeMonth": 588,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 574,
-    "timeDay": 611,
-    "timeWeek": 594,
-    "timeMonth": 586,
-    "timeYear": 574,
+    "time": 575,
+    "timeDay": 669,
+    "timeWeek": 617,
+    "timeMonth": 584,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-11-02": 34
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 568,
-    "timeDay": 554,
-    "timeWeek": 579,
-    "timeMonth": 587,
+    "timeDay": 596,
+    "timeWeek": 603,
+    "timeMonth": 585,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-11-02": 16
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 565,
-    "timeDay": 547,
-    "timeWeek": 569,
-    "timeMonth": 582,
+    "timeDay": 650,
+    "timeWeek": 590,
+    "timeMonth": 580,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2025-07-15": 57
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 568,
-    "timeDay": 520,
-    "timeWeek": 577,
-    "timeMonth": 593,
+    "timeDay": 612,
+    "timeWeek": 603,
+    "timeMonth": 590,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-09-30": 356,
