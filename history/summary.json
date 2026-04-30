@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 602,
-    "timeDay": 659,
-    "timeWeek": 681,
-    "timeMonth": 605,
-    "timeYear": 602,
+    "time": 601,
+    "timeDay": 442,
+    "timeWeek": 642,
+    "timeMonth": 603,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2025-10-23": 356
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 728,
-    "timeWeek": 679,
-    "timeMonth": 611,
-    "timeYear": 589,
+    "time": 588,
+    "timeDay": 436,
+    "timeWeek": 646,
+    "timeMonth": 608,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 583,
-    "timeDay": 724,
-    "timeWeek": 675,
+    "timeDay": 504,
+    "timeWeek": 645,
     "timeMonth": 598,
     "timeYear": 583,
     "dailyMinutesDown": {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 576,
-    "timeDay": 671,
-    "timeWeek": 676,
+    "time": 575,
+    "timeDay": 447,
+    "timeWeek": 638,
     "timeMonth": 598,
-    "timeYear": 576,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2026-01-01": 20,
       "2025-11-02": 16
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 575,
-    "timeDay": 710,
-    "timeWeek": 661,
-    "timeMonth": 600,
-    "timeYear": 575,
+    "time": 574,
+    "timeDay": 456,
+    "timeWeek": 627,
+    "timeMonth": 599,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2025-07-15": 57
     }
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 578,
-    "timeDay": 595,
-    "timeWeek": 644,
-    "timeMonth": 596,
+    "timeDay": 465,
+    "timeWeek": 608,
+    "timeMonth": 594,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2026-01-01": 47,
