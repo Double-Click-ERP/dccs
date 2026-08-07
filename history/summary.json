@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud3.de.doubleclick-erp.com.ico",
     "slug": "cloud-3",
     "status": "up",
-    "uptime": "93.69%",
+    "uptime": "93.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -113,9 +113,9 @@
     "url": "https://dc-cloud6.de.doubleclick-erp.com/Cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/dc-cloud6.de.doubleclick-erp.com.ico",
     "slug": "cloud-6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -124,7 +124,9 @@
     "timeWeek": 580,
     "timeMonth": 577,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-07": 0
+    }
   },
   {
     "name": "Cloud 7",
